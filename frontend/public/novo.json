@@ -1,0 +1,147 @@
+{
+    "totalDosIntegradores": [
+      {
+        "numeroPedidos": 300,
+        "valorPedidos": "400.000.00",
+        "ultimoIntegrado": "19/02/2019 09:03"
+      }
+    ],
+    "dadosIntegradores": {
+      "Moovin": [
+        {
+          "numeroPedidos": 100,
+          "valorPedidos": "100.000.00",
+          "ultimoIntegrado": "19/02/2019 09:03"
+        }
+      ],
+      "F1-Solucoes": [
+        {
+          "numeroPedidos": 120,
+          "valorPedidos": "100.000.00",
+          "ultimoIntegrado": "19/02/2019 09:01"
+        }
+      ],
+      "Plugg.To": [
+        {
+          "numeroPedidos": 30,
+          "valorPedidos": "100.000.00",
+          "ultimoIntegrado": "19/02/2019 09:00"
+        }
+      ],
+      "AnyMarket": [
+        {
+          "numeroPedidos": 50,
+          "valorPedidos": "100.000.00",
+          "ultimoIntegrado": "19/02/2019 08:55"
+        }
+      ]
+    },
+    "dadosSumarizadosIntegrador": {
+      "Moovin": {
+        "IntegradorPrimeiro": [
+          {
+            "id": 1,
+            "numeroPedidos": 25,
+            "valorPedidos": "25.000.00",
+            "ultimoIntegrado": "19/02/2019 09:03"
+          }
+        ],
+        "IntegradorSegundo": [
+          {
+            "id": 2,
+            "numeroPedidos": 25,
+            "valorPedidos": "25.000.00",
+            "ultimoIntegrado": "19/02/2019 09:03"
+          }
+        ],
+        "IntegradorTerceiro": [
+          {
+            "id": 3,
+            "numeroPedidos": 25,
+            "valorPedidos": "25.000.00",
+            "ultimoIntegrado": "19/02/2019 09:01"
+          }
+        ],
+        "IntegradorQuarto": [
+          {
+            "id": 4,
+            "numeroPedidos": 25,
+            "valorPedidos": "25.000.00",
+            "ultimoIntegrado": "19/02/2019 09:02"
+          }
+        ]
+      },
+      "F1-Solucoes": {
+        "IntegradorPrimeiro": [
+          {
+            "id": 1,
+            "numeroPedidos": 25,
+            "valorPedidos": "20.000.00",
+            "ultimoIntegrado": "19/02/2019 09:00"
+          }
+        ],
+        "IntegradorSegundo": [
+          {
+            "id": 2,
+            "numeroPedidos": 25,
+            "valorPedidos": "20.000.00",
+            "ultimoIntegrado": "19/02/2019 09:01"
+          }
+        ],
+        "IntegradorTerceiro": [
+          {
+            "id": 3,
+            "numeroPedidos": 25,
+            "valorPedidos": "20.000.00",
+            "ultimoIntegrado": "19/02/2019 09:01"
+          }
+        ],
+        "IntegradorQuarto": [
+          {
+            "id": 4,
+            "numeroPedidos": 25,
+            "valorPedidos": "20.000.00",
+            "ultimoIntegrado": "19/02/2019 09:00"
+          }
+        ],
+        "IntegradorQuinto": [
+          {
+            "id": 5,
+            "numeroPedidos": 20,
+            "valorPedidos": "20.000.00",
+            "ultimoIntegrado": "19/02/2019 09:00"
+          }
+        ]
+      },
+      "Plugg.To": {
+        "IntegradorPrimeiro": [
+          {
+            "id": 1,
+            "numeroPedidos": 25,
+            "valorPedidos": "50.000.00",
+            "ultimoIntegrado": "19/02/2019 09:00"
+          }
+        ],
+        "IntegradorSegundo": [
+          {
+            "id": 2,
+            "numeroPedidos": 5,
+            "valorPedidos": "50.000.00",
+            "ultimoIntegrado": "19/02/2019 09:00"
+          }
+        ]
+      },
+      "AnyMarket": {
+        "IntegradorPrimeiro": [
+          {
+            "id": 1,
+            "numeroPedidos": 50,
+            "valorPedidos": "100.000.00",
+            "ultimoIntegrado": "19/02/2019 08:55"
+          }
+        ]
+      }
+    },
+    "integradores": ["Moovin", "F1-Solucoes", "Plugg.To", "AnyMarket"]
+  }
+  
