@@ -1,7 +1,9 @@
 import Vue from 'vue'
 
 export const userKey = '__knowledge_users'
-export const baseApiUrl = 'http://192.168.0.100:3000'
+
+export const baseApiUrl = process.env.PORT
+// export const baseApiUrl = 'http://192.168.0.100:3000'
 
 export function showError(e) {
     if(e && e.response && e.response.data) {
